@@ -1,4 +1,4 @@
-package com.tribel.nodes;
+package com.tribel.aircraft;
 
 public enum HelicopType implements AircraftSuperType {
 	

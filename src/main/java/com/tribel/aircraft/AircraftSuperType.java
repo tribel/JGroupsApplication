@@ -1,10 +1,10 @@
-package com.tribel.nodes;
+package com.tribel.aircraft;
 
 
 /**
  * interface for aircraft enums union.
  * 
- * @see AirPlaneType
+ * @see AirplaneType
  * @see HelicopType
  */
 public interface AircraftSuperType {
