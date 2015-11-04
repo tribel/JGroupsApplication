@@ -10,9 +10,8 @@ import com.tribel.aircraft.AirplaneType;
 import com.tribel.aircraft.ControlCenter;
 import com.tribel.aircraft.HelicopType;
 import com.tribel.aircraft.Helicopter;
-
-import nodes.AircraftNode;
-import nodes.ControlCenterNode;
+import com.tribel.nodes.AircraftNode;
+import com.tribel.nodes.ControlCenterNode;
 
 
 

@@ -6,7 +6,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 import java.util.logging.Logger;
 
-import nodes.ControlCenterNode;
+import com.tribel.nodes.ControlCenterNode;
 
 public class ControlCenter {
 	

@@ -1,4 +1,4 @@
-package nodes;
+package com.tribel.nodes;
 
 import org.jgroups.JChannel;
 import org.jgroups.Message;

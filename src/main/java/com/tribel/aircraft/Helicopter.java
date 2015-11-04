@@ -1,6 +1,6 @@
 package com.tribel.aircraft;
 
-import nodes.ClusterNode;
+import com.tribel.nodes.ClusterNode;
 
 public class Helicopter extends Aircraft<HelicopType> {
 
